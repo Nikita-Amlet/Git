@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
 background: url('../img/bg.png');
@@ -35,8 +36,8 @@ margin-left: 74px;
     padding-top: 50px;
     padding-left: 50px;
     position: absolute;
-width: 485px;
-height: 565px;
+    width: 534px;
+    height: 606px;
 left: 725px;
 top: 237px;
 
