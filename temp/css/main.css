@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background: url('../img/bg.png');
+background-repeat: no-repeat;
+background-size: cover;
+width: 1920px;
+height: 1200px;
+}
+form a{
+    color: #ABABAB;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.check{
+    margin-bottom: 82px;
+}
+.login{
+    font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+border-bottom: 2px solid #fff;
+color: #fff;
+padding-bottom: 8px;
+}
+.registr{
+    font-weight: 300;
+font-size: 30px;
+line-height: 37px;
+margin-left: 74px;
+}
+.loginForm{
+    padding-top: 50px;
+    padding-left: 50px;
+    position: absolute;
+width: 485px;
+height: 565px;
+left: 725px;
+top: 237px;
+
+background: rgba(0, 10, 36, 0.72);
+}
+.labelMail, .labelPasword{
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #ABABAB;
+
+}
+#mail, #password{
+    width: 436px;
+    padding: 11px 0px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+background: none;
+border: none;
+border-bottom: 2px solid #fff;
+outline: none;
+margin-bottom: 34px;
+}
+#mail::placeholder, #password::placeholder{
+    color: #fff;
+}
+#password{
+    margin-bottom: 34px;
+}
+.remember{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+margin-left: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#checkbox{
+border: 3px solid #FFFFFF;
+
+}
+form button{
+    width: 436px;
+height: 65px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+color: #FFFFFF;
+background-color: #2266EC;
+margin-top: 34px;
+margin-bottom: 34px;
+text-align: center;
+cursor: pointer;
+outline: none;
+}
+.forgotPasword{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #ABABAB;
+}
