@@ -15,7 +15,7 @@ form a{
     font-family: 'Montserrat', sans-serif;
 }
 .check{
-    margin-bottom: 82px;
+    margin-bottom: 84px;
 }
 .login{
     font-weight: 600;
@@ -90,7 +90,8 @@ color: #FFFFFF;
 }
 #checkbox{
 border: 3px solid #FFFFFF;
-
+width: 12px;
+height: 8px;
 }
 form button{
     width: 436px;
